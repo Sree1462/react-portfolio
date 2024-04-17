@@ -2,6 +2,6 @@
 This project is one of the results of my journey learning frontend with react.
 
 # Preview
-[Live Preview Here](https://dama.ink)
+[Live Preview Here](https://sree1462.github.io/react-portfolio/)
 
-![screencapture-dama-ink-2023-01-24-23_26_46](https://user-images.githubusercontent.com/73756341/214350319-3ff139fa-4150-4488-b6ca-52e2ae2caec3.png)
+![screencapture-dama-ink-2023-01-24-23_26_46](<img src={Portfolio/src/assets/screencapture-localhost-3000-react-portfolio-2024-04-18-01_23_59.png} alt=""/>)
